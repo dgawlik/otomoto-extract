@@ -1,0 +1,197 @@
+[
+ {
+  "car": "Ford Focus 1.0 EcoBoost Start-Stopp-System Ambiente",
+  "power": "100 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "130 295 km",
+  "price": "18 900 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Dacia Sandero",
+  "power": "90 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "147 000 km",
+  "price": "19 500 PLN",
+  "year": "2016",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford C-MAX",
+  "power": "120 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "D?",
+  "mileage": "225 100 km",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Renault Clio Energy TCe 90 Start & Stop Intens",
+  "power": "90 KM",
+  "fuel": "Benzyna",
+  "place": "Łańcut (Podkarpackie)",
+  "mileage": "176 000 km",
+  "price": "19 900 PLN",
+  "year": "2015",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Renault Megane 1.5 dCi Bose Edition",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "Markowa (Podkarpackie)",
+  "mileage": "276 369 km",
+  "price": "13 800 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Focus 1.6 TDCi Trend",
+  "power": "95 KM",
+  "fuel": "Diesel",
+  "place": "Dubiecko (Podkarpackie)",
+  "mileage": "240 000 km",
+  "price": "20 000 PLN",
+  "year": "2015",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Astra J 1.7 Sports Tourer CDTI",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "Mielec (Podkarpackie)",
+  "mileage": "262 000 km",
+  "price": "19 200 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Chevrolet Cruze",
+  "power": "140 KM",
+  "fuel": "Benzyna",
+  "place": "D?bica (Podkarpackie)",
+  "mileage": "201 354 km",
+  "price": "18 800 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Fabia 1.0 Active",
+  "power": "75 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Kolbuszowa Dolna (Podkarpackie)",
+  "mileage": "262 553 km",
+  "price": "19 900 PLN",
+  "year": "2015",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Citro?n C4 1.6 HDi Selection",
+  "power": "112 KM",
+  "fuel": "Diesel",
+  "mileage": "243 400 km",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Renault Megane 1.6 16V Color Edition",
+  "power": "100 KM",
+  "fuel": "Benzyna",
+  "place": "Kraczkowa (Podkarpackie)",
+  "mileage": "288 000 km",
+  "price": "14 950 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Transit Courier",
+  "power": "100 KM",
+  "fuel": "Benzyna",
+  "place": "Orzechówka (Podkarpackie)",
+  "mileage": "194 000 km",
+  "price": "17 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Alfa Romeo Giulietta",
+  "power": "120 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "230 000 km",
+  "price": "19 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "4 TSI Comfortline",
+  "power": "150 KM",
+  "fuel": "Benzyna+CNG",
+  "mileage": "267 000 km",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Rzeszów (Podkarpackie)",
+  "price": "19 900 PLN"
+ },
+ {
+  "car": "Peugeot 208 68 VTI Active",
+  "power": "68 KM",
+  "fuel": "Benzyna",
+  "mileage": "223 700 km",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Jasionka (Podkarpackie)",
+  "price": "12 900 PLN"
+ },
+ {
+  "car": "Hyundai i20 1.1 CRDi Classic",
+  "power": "75 KM",
+  "fuel": "Diesel",
+  "mileage": "267 187 km",
+  "gearbox": "Manualna",
+  "year": "2015",
+  "place": "Rzeszów (Podkarpackie)",
+  "price": "17 500 PLN"
+ },
+ {
+  "car": "Toyota Auris 1.4 D-4D Life",
+  "power": "90 KM",
+  "fuel": "Diesel",
+  "mileage": "260 000 km",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Krosno (Podkarpackie)"
+ },
+ {
+  "car": "Skoda Octavia 1.6 TDI Active",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "Mielec (Podkarpackie)",
+  "mileage": "413 977 km",
+  "price": "19 900 PLN",
+  "year": "2016",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Kia Rio 1.2 M",
+  "power": "84 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Lesko (Podkarpackie)",
+  "mileage": "318 688 km",
+  "price": "18 900 PLN",
+  "year": "2017",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Fabia",
+  "power": "90 KM",
+  "fuel": "Benzyna",
+  "place": "S?dzisz?w Ma?opolski (Podkarpackie)",
+  "mileage": "346 398 km",
+  "price": "17 300 PLN",
+  "year": "2016",
+  "gearbox": "Manualna"
+ }
+]

@@ -1,0 +1,311 @@
+[
+ {
+  "car": "Dacia Duster",
+  "power": "125 KM",
+  "fuel": "Benzyna",
+  "place": "Osiek Jasielski (Podkarpackie)",
+  "mileage": "208 000 km",
+  "price": "19 800 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Hyundai i10",
+  "power": "69 KM",
+  "fuel": "Benzyna",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "128 000 km",
+  "price": "16 500 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Kia Picanto",
+  "power": "69 KM",
+  "fuel": "Benzyna",
+  "place": "Głogę",
+  "mileage": "190 000 km",
+  "year": "2015",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda RAPID 1.2 MPI Ambition",
+  "power": "75 KM",
+  "fuel": "Benzyna",
+  "place": "Jarosław (Podkarpackie)",
+  "mileage": "140 000 km",
+  "price": "19 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Chevrolet Orlando 2.0 TD LTZ&#43;",
+  "power": "163 KM",
+  "fuel": "Diesel",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "215 899 km",
+  "price": "19 900 PLN",
+  "year": "2013",
+  "gearbox": "Automatyczna"
+ },
+ {
+  "car": "Hyundai i30 i30cw 1.4 Comfort",
+  "power": "109 KM",
+  "fuel": "Benzyna",
+  "place": "Sanok (Podkarpackie)",
+  "mileage": "166 000 km",
+  "price": "18 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Mazda 2",
+  "power": "75 KM",
+  "fuel": "Benzyna",
+  "place": "Brzoz?w (Podkarpackie)",
+  "mileage": "112 000 km",
+  "price": "19 999 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Volkswagen Polo",
+  "power": "75 KM",
+  "fuel": "Diesel",
+  "place": "Pilzno (Podkarpackie)",
+  "mileage": "213 000 km",
+  "price": "18 500 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Focus 1.6 TDCi DPF Start-Stopp-System Business",
+  "power": "115 KM",
+  "fuel": "Diesel",
+  "place": "Gorzyce (Podkarpackie)",
+  "mileage": "230 000 km",
+  "price": "16 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Astra",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "Jaros?aw (Podkarpackie)",
+  "mileage": "235 000 km",
+  "price": "16 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Hyundai i20 1.25 Comfort",
+  "power": "85 KM",
+  "fuel": "Benzyna",
+  "place": "D?bica (Podkarpackie)",
+  "mileage": "177 000 km",
+  "price": "18 700 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Citro?n C5",
+  "power": "114 KM",
+  "fuel": "Diesel",
+  "place": "Zag?rz (Podkarpackie)",
+  "mileage": "146 841 km",
+  "price": "19 900 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Citro?n C4 1.6 HDi Attraction",
+  "power": "92 KM",
+  "fuel": "Diesel",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "389 233 km",
+  "price": "8 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Fiesta 1.4 Trend",
+  "power": "96 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Ropczyce (Podkarpackie)",
+  "mileage": "240 000 km",
+  "year": "2016",
+  "gearbox": "Manualna",
+  "price": "19 900 PLN"
+ },
+ {
+  "car": "Nissan Micra",
+  "power": "80 KM",
+  "mileage": "120 000 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Przemyśl (Podkarpackie)",
+  "price": "19 500 PLN"
+ },
+ {
+  "car": "Dacia Duster 1.6 16V 4x2",
+  "power": "105 KM",
+  "mileage": "278 000 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Dębica (Podkarpackie)",
+  "price": "14 999 PLN"
+ },
+ {
+  "car": "Seat Ibiza 1.2 TSI Copa",
+  "power": "105 KM",
+  "mileage": "180 000 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Majdan Sieniawski (Podkarpackie)",
+  "price": "18 900 PLN"
+ },
+ {
+  "car": "Opel Corsa 1.2 16V Color Edition",
+  "power": "85 KM",
+  "mileage": "200 000 km",
+  "fuel": "Benzyna"
+ },
+ {
+  "car": "Skoda Fabia",
+  "power": "75 KM",
+  "fuel": "Diesel",
+  "place": "Majdan Sieniawski (Podkarpackie)",
+  "mileage": "304 000 km",
+  "price": "6 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Citigo 1.0 Style",
+  "power": "60 KM",
+  "fuel": "Benzyna",
+  "place": "Nowosielce (Podkarpackie)",
+  "mileage": "174 759 km",
+  "price": "18 000 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Peugeot 208 e-HDi FAP 92 Stop&Start Allure",
+  "power": "92 KM",
+  "fuel": "Diesel",
+  "place": "Baranów Sandomierski (Podkarpackie)",
+  "mileage": "199 701 km",
+  "price": "16 299 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Corsa 1.2 16V Easytronic Energy",
+  "power": "85 KM",
+  "mileage": "170 350 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Dynów (Podkarpackie)",
+  "price": "17 999 PLN"
+ },
+ {
+  "car": "Ford Fiesta 1.25 Champions Edition",
+  "power": "82 KM",
+  "mileage": "180 000 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Tarnobrzeg (Podkarpackie)",
+  "price": "19 900 PLN"
+ },
+ {
+  "car": "Renault Megane 1.5 dCi Bose Edition",
+  "power": "110 KM",
+  "mileage": "207 216 km",
+  "fuel": "Diesel",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Mielec (Podkarpackie)",
+  "price": "17 500 PLN"
+ },
+ {
+  "car": "Ford Fiesta 1.0 EcoBoost Titanium",
+  "power": "100 KM"
+ },
+ {
+  "car": "Opel Meriva 1.4 T Enjoy",
+  "power": "140 KM",
+  "fuel": "Benzyna",
+  "place": "Brzoz?w (Podkarpackie)",
+  "mileage": "188 716 km",
+  "price": "18 800 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Citro?n C5",
+  "power": "115 KM",
+  "fuel": "Diesel",
+  "place": "Krosno (Podkarpackie)",
+  "mileage": "294 000 km",
+  "price": "11 000 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Dacia Logan 1.2 16V 75 Ambiance",
+  "power": "75 KM",
+  "fuel": "Benzyna",
+  "place": "Kraczkowa (Podkarpackie)",
+  "mileage": "179 000 km",
+  "price": "14 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Volkswagen up! white",
+  "power": "60 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "158 500 km",
+  "price": "16 399 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Suzuki Swift",
+  "power": "136 KM",
+  "fuel": "Benzyna",
+  "place": "?a?cut (Podkarpackie)",
+  "mileage": "208 000 km",
+  "price": "20 000 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Dacia Sandero dCi 90 Celebration",
+  "power": "90 KM",
+  "fuel": "Diesel",
+  "place": "D?bica (Podkarpackie)",
+  "mileage": "201 000 km",
+  "price": "17 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Hyundai i30 1.6 CRDi Classic",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "w (Podkarpackie)",
+  "mileage": "289 500 km",
+  "year": "2013",
+  "gearbox": "Manualna",
+  "price": "12 900 PLN"
+ }
+]

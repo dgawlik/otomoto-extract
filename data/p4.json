@@ -1,0 +1,302 @@
+[
+ {
+  "car": "Hyundai i30 1.6 CRDi Classic",
+  "power": "110 KM",
+  "fuel": "Diesel",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "289 500 km",
+  "price": "12 900 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Citroën C3 Picasso",
+  "power": "92 KM",
+  "fuel": "Diesel",
+  "place": "Brzeźnica (Podkarpackie)",
+  "mileage": "200 000 km",
+  "price": "14 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Fabia",
+  "power": "75 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "259 000 km",
+  "price": "15 999 PLN",
+  "year": "2016",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Peugeot 308 1.6 Premium",
+  "power": "156 KM",
+  "fuel": "Benzyna",
+  "place": "Tarnobrzeg (Podkarpackie)",
+  "mileage": "185 000 km",
+  "price": "17 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Nissan Qashqai 1.6 dCi 4 x 4 DPF Start/Stop 360",
+  "power": "130 KM",
+  "fuel": "Diesel",
+  "place": "D?bica (Podkarpackie)",
+  "mileage": "330 000 km",
+  "price": "19 999 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Corsa",
+  "power": "87 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "223 000 km",
+  "price": "13 000 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Peugeot 308 1.4 Trendy",
+  "power": "98 KM",
+  "fuel": "Benzyna",
+  "place": "Kraczkowa (Podkarpackie)",
+  "mileage": "176 000 km",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Dacia Sandero Stepway",
+  "power": "90 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "140 000 km",
+  "price": "16 500 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Focus 1.6 TDCi Trend ECOnetic",
+  "power": "105 KM",
+  "fuel": "Diesel",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "214 000 km",
+  "price": "19 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Seat Ibiza",
+  "power": "86 KM",
+  "fuel": "Benzyna",
+  "place": "Jaros?aw (Podkarpackie)",
+  "mileage": "221 000 km",
+  "price": "17 900 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Renault Grand Scenic",
+  "power": "130 KM",
+  "price": "16 500 PLN"
+ },
+ {
+  "car": "Volkswagen Jetta 1.6 TDI Trendline",
+  "power": "105 KM",
+  "fuel": "Diesel",
+  "place": "Padew Narodowa (Podkarpackie)",
+  "mileage": "226 600 km",
+  "price": "19 800 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Corsa 1.4 16V Active",
+  "power": "100 KM",
+  "fuel": "Benzyna",
+  "place": "Tarnobrzeg (Podkarpackie)",
+  "mileage": "173 441 km",
+  "price": "19 900 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Kia Ceed",
+  "power": "136 KM",
+  "fuel": "Diesel",
+  "place": "Stalowa Wola (Podkarpackie)",
+  "mileage": "272 800 km",
+  "price": "19 500 PLN",
+  "year": "2017",
+  "gearbox": "Automatyczna"
+ },
+ {
+  "car": "Opel Astra 1.4 Turbo 150 Jahre",
+  "power": "140 KM",
+  "fuel": "Benzyna",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "214 234 km",
+  "price": "19 900 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Peugeot 5008 1.6 HDi Active 7os",
+  "power": "112 KM",
+  "fuel": "Diesel",
+  "place": "Ustrzyki Dolne (Podkarpackie)",
+  "mileage": "279 096 km",
+  "price": "19 500 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Seat Mii 1.0 Ecomotive 4You White",
+  "power": "60 KM",
+  "fuel": "Benzyna",
+  "place": "Korczyna (Podkarpackie)",
+  "mileage": "149 000 km",
+  "price": "19 900 PLN",
+  "year": "2015",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Corsa 1.2 16V Color Edition",
+  "power": "70 KM"
+ },
+ {
+  "car": "Alfa Romeo Giulietta 1.6 JTDM Veloce",
+  "power": "105 KM",
+  "fuel": "Diesel",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "291 211 km",
+  "price": "16 999 PLN",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Opel Meriva 1.6 CDTI ecoflex Start/Stop Edition",
+  "power": "136 KM",
+  "fuel": "Diesel",
+  "place": "Kraczkowa (Podkarpackie)",
+  "mileage": "279 000 km",
+  "price": "19 900 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Fiesta",
+  "power": "80 KM",
+  "fuel": "Benzyna",
+  "place": "Rzesz?w (Podkarpackie)",
+  "mileage": "150 000 km",
+  "year": "2013",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Renault Clio Energy dCi 90 Start & Stop Luxe",
+  "power": "90 KM",
+  "mileage": "200 000 km",
+  "fuel": "Diesel",
+  "gearbox": "Manualna",
+  "year": "2013",
+  "place": "Ropczyce (Podkarpackie)",
+  "price": "19 800 PLN"
+ },
+ {
+  "car": "Peugeot 208",
+  "power": "95 KM",
+  "mileage": "215 000 km",
+  "fuel": "Benzyna",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Tarnobrzeg (Podkarpackie)",
+  "price": "16 900 PLN"
+ },
+ {
+  "car": "Skoda Octavia 1.6 TDI 4x4 Elegance",
+  "power": "105 KM",
+  "mileage": "186 905 km",
+  "fuel": "Diesel",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Rzeszów (Podkarpackie)",
+  "price": "19 900 PLN"
+ },
+ {
+  "car": "Volkswagen Golf Plus 1.6 TDI DPF MATCH",
+  "power": "105 KM"
+ },
+ {
+  "car": "Citroën C3 Pure Tech (VTi) 82 Exclusive",
+  "power": "82 KM",
+  "fuel": "Benzyna",
+  "place": "Brzozów (Podkarpackie)",
+  "mileage": "159 000 km",
+  "price": "19 700 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Octavia 1.6 TDI Ambition",
+  "power": "105 KM",
+  "fuel": "Diesel",
+  "place": "Mielec (Podkarpackie)",
+  "mileage": "361 000 km",
+  "price": "16 700 PLN",
+  "year": "2014",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Volkswagen Polo 1.2 Trendline",
+  "power": "70 KM",
+  "fuel": "Benzyna",
+  "place": "Tajęcina (Podkarpackie)",
+  "mileage": "223 000 km",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Focus 1.0 EcoBoost Trend ASS",
+  "power": "100 KM",
+  "fuel": "Benzyna",
+  "place": "Łańcut (Podkarpackie)",
+  "mileage": "208 000 km",
+  "price": "19 000 PLN",
+  "year": "2016",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Skoda Fabia",
+  "power": "86 KM",
+  "fuel": "Benzyna",
+  "place": "Rzeszów (Podkarpackie)",
+  "mileage": "198 000 km",
+  "price": "19 500 PLN",
+  "year": "2013",
+  "gearbox": "Automatyczna"
+ },
+ {
+  "car": "Kia Picanto 1.0 L",
+  "power": "69 KM",
+  "fuel": "Benzyna+LPG",
+  "place": "Biały Bór (Podkarpackie)",
+  "mileage": "230 062 km",
+  "price": "10 490 PLN",
+  "year": "2012",
+  "gearbox": "Manualna"
+ },
+ {
+  "car": "Ford Focus 1.6 TDCi Edition",
+  "power": "115 KM",
+  "mileage": "225 500 km",
+  "fuel": "Diesel",
+  "gearbox": "Manualna",
+  "year": "2012",
+  "place": "Try?cza (Podkarpackie)",
+  "price": "19 500 PLN"
+ }
+]
